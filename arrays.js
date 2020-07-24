@@ -6,13 +6,3 @@ function destructivelyAddElementToBeginningOfArray(array,element){
   return alteredArray;
   
 }
-function accessElementInArray(array, index){
-  
-  
-  var arrayReturn = ["josh", "adriana", "missy"];
-  
-  return arrayReturn[1];
-  
-  
-  
-}
